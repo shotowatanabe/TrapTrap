@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 76e514b81ef42c9498d6c61cefb1a83b
+timeCreated: 1495270572
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - topWall: {instanceID: 0}
+  - playerPrefab: {fileID: 114000011544173362, guid: 50ad6d7777ac32b41972b81923e278d8,
+      type: 2}
+  - cellPrefab: {fileID: 114000013583430338, guid: 8fd1ccf705b85a9489781732a88c4aa4,
+      type: 2}
+  - bombPrefab: {fileID: 1000014282934686, guid: 3f370ef9fa9322e409662f6af4efac85,
+      type: 2}
+  - needlePrefab: {fileID: 1000013068495660, guid: e4dc4dced63cffd4a9a8cc2ad21345d3,
+      type: 2}
+  - rubblePrefab: {fileID: 1000013770621646, guid: c15932dea88ade54ab2ab0102d5addfc,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
